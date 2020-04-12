@@ -1,4 +1,4 @@
-The Tidy_Data_Code_run.R script Performs the data preparation followed by the steps described below:
+The run_analysis.R script Performs the data preparation followed by the steps described below:
 
 **1 Download the dataset**
 Dataset downloaded and extracted under the folder called UCI HAR Dataset
